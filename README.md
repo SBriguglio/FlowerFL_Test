@@ -1,8 +1,8 @@
 # FL Platform Test: Flower
 
 This repository is the home of my evaluation of the Flower federated learning platform; the aim of which is to better understand 
-the extensibility and ease of use of the platform from the researcher's perspective. Specifically, I wish to address 3 
-questions.
+the extensibility and ease of use of the platform from the researcher's perspective. Specifically, I wish to address the
+following questions.
 1. How easy is it to implement different ML models in a FL setting using this platform?
 2. Is there a large selection of ML models natively supported by the platform?
 3. How easy is it to use different FL architectures (i.e. HFL, VFL, etc.)?
