@@ -146,7 +146,8 @@ and have client establish a secure connection with it
 - note: PyTorch will require Python < 3.10.0
 - Available [here](https://flower.dev/docs/example-pytorch-from-centralized-to-federated.html)
 ## The Bottom Line
-Flower is a fairly easy-to-use and extensible federated learning platform. In my trials, I have
+Flower is a fairly easy-to-use and extensible federated learning platform. It can be very easily installed
+using pip and has good extensibility without the need to modify sourcecode. In my trials, I have
 been able to quickly implement and train with as many as 10 clients across 3 virtuals machines and
 as many as 60 clients and one server on a single machine in suboptimal conditions. It is quite
 easy to implement various ML models using various different packages like sklearn, TensorFlow and 
